@@ -1,0 +1,27 @@
+{
+  "name": "api-functional",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpiritUrban/api-functional.git"
+  },
+  "keywords": [
+    "api",
+    "functional",
+    "node",
+    "express",
+    "js",
+    "expressjs"
+  ],
+  "author": "Diachuk Vitaliy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpiritUrban/api-functional/issues"
+  },
+  "homepage": "https://github.com/SpiritUrban/api-functional#readme"
+}
