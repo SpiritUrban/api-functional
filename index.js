@@ -4,8 +4,8 @@ const server = http.createServer((req, res) => {
     console.log('req url', req.url);
 
     res.statusCode = 200;
-    res.setHeader('Content-Type', 'text/plain');
-    res.end('Hello World');
+    res.setHeader('Content-Type', 'text/html');
+    res.end('<a href="/x">Link</a>');
 });
 
 server.listen(3001, () => {
