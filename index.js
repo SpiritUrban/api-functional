@@ -12,6 +12,6 @@ server.listen(3001, () => {
     console.log('Server running at http://localhost:3001/');
 });
 
-setInterval(() => {
-    console.log('ping');
-}, 1000);   
+// setInterval(() => {
+//     console.log('ping');
+// }, 1000);   
